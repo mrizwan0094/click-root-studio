@@ -9,7 +9,7 @@ import { ScrollToTop } from "@/components/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "DigitalAgency - Transform Your Business with Digital Solutions",
+  title: "ClickRoot Studio - Transform Your Business with Digital Solutions",
   description:
     "Professional web development, mobile apps, UI/UX design, and digital marketing services. Transform your business with cutting-edge digital solutions.",
 };
